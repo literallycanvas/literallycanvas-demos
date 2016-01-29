@@ -9,6 +9,7 @@ Canvas.
     "core build" that doesn't include any UI. Instead, there is custom
     JavaScript that controls the active tool, colors, etc.
 
-`react_npm_webpack`: A modern setup that installs Literally Canvas from NPM,
-    requires it and React with CommonJS, and produces a single JavaScript file.
-    This is the best way to start if you're beginning a new project.
+`npm_webpack_react`: A modern setup that installs Literally Canvas from NPM,
+    requires it and React with CommonJS, renders the widget within a React
+    component, and produces a single JavaScript file. This is likely the best
+    way to start if you're beginning a new project.
