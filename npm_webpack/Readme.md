@@ -1,4 +1,4 @@
-# Literally Canvas + React + Webpack
+# Literally Canvas + Webpack; React included separately
 
 To run:
 
