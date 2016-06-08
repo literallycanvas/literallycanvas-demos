@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "literallycanvas": "0.4.13",
+    "literallycanvas": "0.4.14",
     "react": "^0.14.6",
     "react-dom": "^0.14.6"
   },
